@@ -1,0 +1,171 @@
+#main_col {
+    width: 90%;
+    padding: 1rem;
+    }
+  
+  .back-to-top {
+        z-index: +1000000;
+    right: 22px;
+  }
+  .Third_heading {
+    font-size: x-large;
+  }
+  
+  .bdh1,
+  .bh2 {
+    font-size: larger;
+    width: auto;
+  }
+  #bars{
+    padding:1rem 0px;
+  }
+  .lastcon{
+    text-align: center;
+  }
+  #offcanvasExample{
+        width: 87%!important;
+
+  }
+  .header-container{
+    width: 112%;
+    padding: 4.4rem 2px 4.4rem 0rem;
+    text-align: center;
+  }
+  
+  #srch {
+    display: none;
+  }
+  .fl_col {
+    margin: 3rem 0px;
+  }
+  .cost {
+    position: absolute;
+    margin-top: -10%;
+    left: 23%;
+  }
+  .horiz_line {
+    display: block;
+    height: 1px;
+    background: white;
+    opacity: 0.2;
+    width: 46%;
+    position: absolute;
+    left: 41%;
+    margin-top: -1rem;
+  }
+  #main-content {
+    height: 41rem;
+  }
+  .ani {
+    right: 20%;
+    top: 76%;
+    width: 58%;
+  }
+  .pding {
+    padding: 0px;
+  }
+  .svth{
+    padding: 2rem 1px;
+  }
+  .f_col {
+    padding: 2rem 3rem;
+    background: transparent;
+    width: 100%;
+    text-align: center;
+  }
+  .pdi{
+    margin-top: 0px;
+    padding: 0px;
+    height:auto;
+  }
+  .f_h2 {
+    font-weight: inherit;
+    font-size: 32px;
+    line-height: 41px;
+  }
+  .top_head{
+        bottom: 11rem !important;
+  }
+  .name_c{
+        padding: 1rem 4rem;
+  }
+  .main_container {
+    width: 90%;
+  }
+  .f_star {
+    padding: 0px;
+  }
+  .d_food {
+    font-weight: 600;
+    font-size: 31px;
+  }
+  .twh1 {
+    padding: 0px;
+    margin: 0px;
+    line-height: 2.3rem;
+  }
+  .twp {
+    margin: -1rem 0px 1rem;
+  }
+  .teimgw {
+    line-height: 3rem;
+  }
+  .ceotw {
+    font-size: larger;
+    font-weight: 600;
+    font-family: auto;
+  }
+  
+  #bg_img {
+    background-image: url(//elementor.zozothemes.com/restaurt/wp-content/uploads/sites/58/2022/10/arrow-leafs.png);
+    background-repeat: no-repeat;
+    background-position: 18rem 26rem;
+    background-size: 6rem;
+    padding:0px;
+  }
+  .dsin{
+    padding: 0px;
+  }
+  .bgtree{
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .bdp {
+    margin-bottom: 12px;
+    font-size: medium;
+  }
+  .first-food {
+width: 15rem;
+       top: 1rem;
+    right: 4.6rem;
+  }
+  .first_col{
+    padding: 15px 0px;
+  }
+  .fimg1{
+      width: 20%;
+      padding-top: 8px;
+  }
+  .fheading{
+        margin-bottom: 22px !important;
+  }
+  .circle-img{
+    right: 7.7%;
+    top: 75%;
+    width: 79%;
+  }
+  .plsalg{
+    margin-right:0px;
+  }
+  .all_count{
+    text-align: center;
+  }
+  .tw2fc{
+    font-size: 56px;
+  }
+  h5{
+    font-size: 1rem;
+  }
+  .body-paragraph{
+        padding-right: 15px;
+  }

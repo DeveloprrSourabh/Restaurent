@@ -1,0 +1,95 @@
+.pdi {
+	height: 43rem;
+  }
+  .circle-img {
+	right: 16.7%;
+	top: 70%;
+	width: 62%;
+  }
+  .talign {
+	width: auto;
+	margin-left: 0px;
+  }
+  .ddm {
+	padding-right: 0px !important;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+  }
+  .card {
+	width: auto;
+	margin: 2rem;
+  }
+  .top_head {
+	bottom: 20rem !important;
+  }
+  .Third_heading {
+	font-size: x-large;
+  }
+  .carb {
+	top: 60% !important;
+  }
+  #main_col {
+	width: 70%;
+  }
+  .header-container {
+	width: 100%;
+	padding: 4.4rem 1rem;
+	text-align: center;
+  }
+  .setimgs {
+	width: 81%;
+  }
+  .rowset {
+	display: content;
+  }
+  .bcolst3 {
+	width: 100% !important;
+  }
+  #main-content {
+	width: 100%;
+	height: 161vh;
+  }
+  .gt {
+	width: 102%;
+  }
+  .horiz_line {
+	display: none;
+  }
+  .fdiv {
+	width: 90%;
+  }
+  .lastcon {
+	width: auto;
+  }
+  .body-col {
+	float: none;
+	margin: auto;
+  }
+  .hdline1 {
+	display: none;
+  }
+  .dis {
+	flex-direction: column;
+	margin-bottom: 1rem;
+  }
+  .teimgw {
+	margin-top: 2rem;
+  }
+  
+  .body-heading,
+  .body-subheading {
+	margin: auto;
+  }
+  .body-subheading {
+	padding: 1rem 0px 0px;
+  }
+  .first-foodfirst-food {
+	margin: auto;
+	width: 124%;
+  }
+  
+  .padins {
+	padding: 0px;
+  }
+  
